@@ -127,6 +127,8 @@ ORDER BY totalcost DESC;
 Export the country club data from PHPMyAdmin, and connect to a local SQLite instance from Jupyter notebook 
 for the following questions.  
 
+Jupyter Notebook Link - https://github.com/nileshsuresh/SQLFiles-Tier-2/blob/main/SQLLite_CaseStudy.ipynb
+
 QUESTIONS:
 /* Q10: Produce a list of facilities with a total revenue less than 1000.
 The output of facility name and total revenue, sorted by revenue. Remember
